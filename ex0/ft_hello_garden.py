@@ -6,9 +6,9 @@
 #    By: danicamp <danicamp@student.42porto.com>    +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2026/06/07 09:25:50 by danicamp          #+#    #+#              #
-#    Updated: 2026/06/07 09:50:00 by danicamp         ###   ########.fr        #
+#    Updated: 2026/06/08 15:39:35 by danicamp         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
-def	ft_hello_garden():
-	print("Hello, Garden Community!")
+def ft_hello_garden():
+    print("Hello, Garden Community!")
